@@ -1,12 +1,19 @@
 # EasyIP
 Built in python, a script to number and store IPS in a sqlite base.
 <br><br>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github.com/user-attachments/assets/b8358074-bb22-4081-bffa-04fa23d7a1b4" width="300px">
+    </td>
+    <td>EasyIP is a script created with a focus on information security topics, it is a pocket version of an IP numerator that works with the http protocol, compatible with Windows and Linux.</td>
+  </tr>
+</table>
 
-<img align="center" src="https://github.com/user-attachments/assets/b8358074-bb22-4081-bffa-04fa23d7a1b4" width="300px">
 
 
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A glimpse of what easyip can do.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
