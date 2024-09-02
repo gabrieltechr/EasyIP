@@ -31,9 +31,10 @@ Built in python, a script to number and store IPS in a sqlite base.
 
 </p>
 
-<center>
-  <img src="https://github.com/user-attachments/assets/bbcf8740-22c4-4e45-98aa-f240c3f8b328"> 
-</center>
+
+
+  <img align="center" src="https://github.com/user-attachments/assets/bbcf8740-22c4-4e45-98aa-f240c3f8b328"> 
+
 
 
 
